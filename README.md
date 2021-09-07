@@ -2,5 +2,5 @@
 
 This front-end project is developed with React.js and contains fully customized componets for layout. No bootstrap or other styling libraries are used.
 
-# After isntalling: `yarn`
-# Start project: `yarn start`
+## After clone: `yarn`
+## Start project: `yarn start`
